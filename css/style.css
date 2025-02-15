@@ -1182,7 +1182,7 @@
 			#work .row.images .image {
 				position: relative;
 				top: 0;
-				left: -5em;
+				left: 0;
 				opacity: 1.0;
 			
 				-moz-transition: all 1s ease;
@@ -1206,11 +1206,11 @@
 				}
 			
 				#work .row.images.inactive .image.l {
-					left: -16em;
+					left: -14em;
 				}
 			
 				#work .row.images.inactive .image.r {
-					left: 16em;
+					left: 14em;
 				}
 			
 /*********************************************************************************/
@@ -1256,7 +1256,7 @@
 		line-height: 5em;
 		margin: 0;
 		background: #39454b;
-		color: #999;
+		color: #000;
 		color: rgba(185,186,187,0.5);
 		overflow: hidden;
 	}

@@ -576,10 +576,12 @@
 
 		.dark {
 			color: #000;
+			text-shadow: #fff;
 		}
 
 			.dark a {
 				color: #000;
+				text-shadow: #fff;
 			}
 		
 			.dark .button.style2 {
